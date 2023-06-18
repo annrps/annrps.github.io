@@ -1,22 +1,21 @@
 # 一亩三分地，五湖四海时
 
 终日而思，不如须臾之所学
-</br></br>
+
 
 ## 1. 知识梳理
 
 ### 1.1 编程基础
 
 *TODO*
-</br></br>
+
 
 ### 1.2 设计基础
 
-设计模式
+[设计模式](https://github.com/annrps/annrps.github.io/tree/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
-</br></br>
 
 ## 2. 源码分析
 
 *TODO*
-</br></br>
+
