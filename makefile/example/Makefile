@@ -7,7 +7,7 @@ CROSS_COMPILE =
 AS		= @ $(CROSS_COMPILE)as
 LD		= @ $(CROSS_COMPILE)ld
 CC		= @ $(CROSS_COMPILE)gcc
-CPP		= $(CC) -E
+CPP		= @ $(CC) -E
 AR		= @ $(CROSS_COMPILE)ar
 NM		= @ $(CROSS_COMPILE)nm
 
@@ -31,9 +31,8 @@ export TOPDIR
 TARGET := example
 
 
-sub_dirs += $(PROJ_ROOT)/sub_dir_1
-sub_dirs += $(PROJ_ROOT)/sub_dir_2
-sub_dirs += $(PROJ_ROOT)/...
+sub_dirs += $(PROJ_ROOT)/domain
+sub_dirs += $(PROJ_ROOT)/app
 
 source_files += 
 

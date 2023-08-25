@@ -1,18 +1,17 @@
-# 一亩三分地
+#  
 
-## 1. 知识梳理
+## 1 知识梳理
 
-### 1.1 工具链
+### 1.1 设计模式
 
-[Makefile](https://github.com/annrps/annrps.github.io/tree/main/makefile)
+- [设计模式简介](https://github.com/annrps/annrps.github.io/blob/main/design_patterns/introduction.md)
 
+### 1.2 Linux相关
 
-### 1.2 设计基础
+- /* TODO 整理中 */
 
-[设计模式](https://github.com/annrps/annrps.github.io/blob/main/design_patterns/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AE%80%E4%BB%8B.md)
+## 2. 工具&模板
 
+### 2.1 Makefile模板
 
-## 2. 源码分析
-
-*TODO*
-
+- [Makefile模板说明](https://github.com/annrps/annrps.github.io/tree/main/makefile/readme.md)
