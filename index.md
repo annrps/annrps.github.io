@@ -14,4 +14,4 @@
 
 ### 2.1 Makefile模板
 
-+ [模板使用说明](https://github.com/annrps/annrps.github.io/tree/main/makefile/readme.md)
++ [模板使用说明](https://github.com/annrps/make_tools/makefile_template/readme.md)
