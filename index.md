@@ -10,8 +10,8 @@
 
 + /\* TODO 整理中 \*/
 
-## 2. 工具&模板
+## 2. 构建工具
 
 ### 2.1 Makefile模板
 
-+ [模板使用说明](https://github.com/annrps/make_tools/makefile_template/readme.md)
++ [模板使用说明](https://github.com/annrps/make_tools/tree/main/makefile_template/README.md)
